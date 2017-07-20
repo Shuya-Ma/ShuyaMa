@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 
 <html>
@@ -9,7 +8,6 @@
     <link rel="icon" href="{!! asset('/assets/icon/icon.ico') !!}"/>
     <link rel="stylesheet" href="/css/home.css">
 
- 
 
 </head>
 
@@ -17,12 +15,13 @@
 
 
 
+
+
 	<div class="coming_soon">
-		Coming Soon
+	<p>Coming soon</p>
 	</div>
 
 
 </body>
 
 </html>
-

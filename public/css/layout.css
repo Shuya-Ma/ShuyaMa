@@ -63,7 +63,7 @@ ul.nav_bar li a:hover:not(.active){
 
 
 
-ul.footer{
+footer{
 	position: fixed;
 	list-style-type: none;
     margin: 0;
@@ -76,17 +76,17 @@ ul.footer{
 	height: 50px;
 	bottom: 0;
 	opacity: 0.9;
-	
+	float: right;
+
 }
 
-ul.footer li a{
+footer a{
 	color: black;
 	display:inline;
-
 	text-align: center;
 	padding: 20px 50px;
 	text-decoration: none;
-	
+
 }
 
 

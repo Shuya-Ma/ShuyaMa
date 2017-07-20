@@ -1,11 +1,15 @@
 <footer>
 
-	<ul class="footer">
-		<li class="copyright">
-		<li><a href="mailto:shuyama240@gmail.com?Subject=Hello">hire me</a></li>
+	<div>
+	
+			<a href="/resume">resume</a>
+			<a href="mailto:shuyama@shuyama.me?Subject=Hello">hire me</a>
 
-		<li class=""><a href="/resume">resume</a></li>
 
-	</ul>
+
+	</div>
+
+		
+
 
 </footer>
