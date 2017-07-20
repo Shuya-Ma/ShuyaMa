@@ -62,6 +62,17 @@ div.intro_text p.name {
 	font-weight:bold;
 }
 
+
+div.coming_soon { /* coming soon page*/
+	color: black;
+	font-size: 100px;
+	font-weight: bold;
+	position: absolute;
+    top: 40%;
+    left:28%;
+}
+
+
 /*hr.style1 {
 	border-top: 3px double #8c8b8b;
 	position: relative;
