@@ -18,7 +18,7 @@
 
 
 	<div class="coming_soon">
-	<p>Coming soon</p>
+	<p>Coming Soon</p>
 	</div>
 
 
