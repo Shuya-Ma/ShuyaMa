@@ -29,11 +29,12 @@ div.intro {
 
 div.avatar{
 	position: relative;
-	left: 30%;
+	left: 50%;
 	top: 10%;
-	width:200px;
-	height: 215px;
-	background-image: url("/assets/profile/profile02.jpg");
+	width:204px;
+	height: 220px;
+	margin-left: -102px;
+	background-image: url("/assets/profile/profile06.jpg");
 	background-position: 35% 35%;
 	background-size:105% 105%;
 	background-repeat: no-repeat;
@@ -62,8 +63,32 @@ div.intro_text p.name {
 
 	font-size: 40px;
 	font-weight:bold;
+	text-align: center;
 }
 
+div.intro_text p.name: before, div.intro_text p.name: after{
+  background-color: #000;
+    content: "";
+    display: inline-block;
+    height: 1px;
+    position: relative;
+    vertical-align: middle;
+    width: 50%;
+}
+
+div.intro_text p.name: before {
+ 	right: 0.5em;
+    margin-left: -50%;
+	
+}
+
+
+div.intro_text p.name: after {
+
+ 	left: 0.5em;
+    margin-right: -50%;
+
+}
 
 div.coming_soon { /* coming soon page*/
 	color: black;
