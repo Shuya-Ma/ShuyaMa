@@ -5,7 +5,7 @@
 <head>
 
     <title>@yield("title")</title>
-    <link rel="icon" href="{!! asset('/assets/icon/icon.ico') !!}"/>
+    <link rel="icon" href="{!! asset('/assets/icon/favicon.ico') !!}"/>
     <link rel="stylesheet" href="/css/layout.css">
 
     @yield("styles")
@@ -18,7 +18,7 @@
 
 
 
-		@include('layouts.nav')
+		
 
 
 
@@ -26,9 +26,9 @@
         @yield('content')
 
 
+		<!-- @include('layouts.nav') -->
 
-
-      	@include('layouts.footer')
+      	<!-- @include('layouts.footer') -->
 
 
 

@@ -6,13 +6,13 @@
 		<li class="about_btn"><a href="/about">About</a></li>
 		<li class="about_btn"><a href="/gallery">Gallery</a></li>
 	</ul> -->
-	<div class="nav_bar">
+	<div >
 
-		<a href="/">Shuya Ma</a>
-		<a href="/contact">Contact</a>
-		<a href="/gallery">Gallery</a>
-		<a href="/project">Project</a>
+		<a class="home" href="/">Shuya Ma</a>
 		<a href="/about">About</a>
+		<a href="/project">Project</a>		
+		<a href="/gallery">Gallery</a>
+		<a href="/contact">Contact</a>
 		
 
 	</div>

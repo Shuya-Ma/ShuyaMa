@@ -14,18 +14,7 @@
 	
 
 
-		<div class="intro">
-		
-			<div class="avatar"></div>
-
-			<div class="intro_text">
-				<p class="name">Shuya Ma</p>
-				<!-- <hr class="style1"> -->
-				<p>Software Developer</p>
-				<p>Technology Enthusiast</p>
-			</div>
-
-		</div>
+	<div class="coming_soon">Coming Soon</div>
 
 
 	</div>
