@@ -23,9 +23,7 @@ div.resume_content {
 
 div.big_title{
 	position: relative;
-	background-color: #1E90FF;
-/*	background-color: #0066ff;
-*/	
+	background-color: #1E90FF; /*blue*/	
 	margin-left: 5%;
 	width: 90%;
 	height: 60px;
@@ -38,6 +36,11 @@ h2.big_title{
 	top: 20%;
 	color: white;
 	text-align: left;
+}
+
+div.edu_left{
+	position: relative;
+	left: 100px;
 }
 
 

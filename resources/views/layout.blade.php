@@ -26,9 +26,9 @@
         @yield('content')
 
 
-		<!-- @include('layouts.nav') -->
+		@include('layouts.nav')
 
-      	<!-- @include('layouts.footer') -->
+      	@include('layouts.footer')
 
 
 

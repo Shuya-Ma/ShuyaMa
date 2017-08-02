@@ -1,0 +1,26 @@
+div.project{
+
+	position: relative;
+    left: 50%;
+    top: 60px;
+    margin-top: 40px;
+    margin-left: -400px; 
+	width: 800px;
+	height: 200px;
+	opacity: 0.5;
+	
+
+}
+
+#freshare{
+	background-color: #78CC53;
+}
+
+
+#dinewhere{
+	background-color: red;
+}
+
+#newsshare{
+	background-color: #1E90FF;
+}

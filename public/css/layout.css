@@ -1,8 +1,21 @@
+
+/*
+Custom Color
+
+blue: #1E90FF
+green: #78CC53;
+*/
+
+
 body {
 
 	background-color: black;
 	/*font-family: "Trebuchet MS", Helvetica, sans-serif;*/
-	font-family: Tahoma, Geneva, sans-serif;
+/*	font-family: Tahoma, Geneva, sans-serif;
+*/	
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+/*	font-family: 'OpenSansLight', sans-serif;
+*/
 
 /*    background-attachment: fixed;
 	background-color: black;
@@ -69,7 +82,7 @@ nav a.home:hover:not(.active){
 nav a:hover:not(.active){
 	background-color: black;
 
-	color: #78CC53;
+	color: #78CC53; /*green*/
 }
 
 
