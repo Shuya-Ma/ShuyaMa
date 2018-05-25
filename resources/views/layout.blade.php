@@ -23,10 +23,13 @@
 
 
 
-        @yield('content')
+        
 
 
 		@include('layouts.nav')
+		<div class="body_wrapper">
+			@yield('content')
+		</div>
 
       	@include('layouts.footer')
 

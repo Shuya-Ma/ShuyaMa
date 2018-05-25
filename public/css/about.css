@@ -1,8 +1,7 @@
 div.background{
-	position: fixed;
-
-    width: 100%;
-	height: 100%;
+	background-color: #333;
+	color: white;
+	font-size: 20px;
 
 
 	/*background-color: white;*/
@@ -13,3 +12,75 @@ div.background{
 
 }
 
+div.pic{
+
+	width: 100%;
+	height: 700px;
+	background-image: url("/assets/gallery/cardinals1.png");
+	background-size: cover;
+  	background-repeat: no-repeat;
+  	background-position: 60% 0%;
+	
+
+}
+
+div.pane_1, div.pane_2, div.pane_3{
+/*	position: relative;
+	top: 100px;
+	width: 75%;
+	margin-left: auto;
+  	margin-right: auto;
+	display: block;*/
+
+
+	width: 75%;
+  	margin-left: auto;
+  	margin-right: auto;
+  	display: block;
+	padding-top: 8vh;
+  	padding-bottom: 8vh;
+  	line-height: 1.9;
+  	font-family: "Lucida Console", Monaco, monospace;
+}
+
+
+
+
+
+div.pane_pic1{
+	background-image: url("/assets/gallery/comb1_resize.jpg");
+	width: 100%;
+  	background-size: cover;
+  	background-attachment: fixed;
+  	min-height: 400px;
+  	height: 60vw;
+  	background-position: 50% 50%;
+}
+div.pane_pic2{
+	background-image: url("/assets/background/background_edited.jpg");
+	width: 100%;
+  	background-size: cover;
+  	background-attachment: fixed;
+  	min-height: 400px;
+  	height: 62vw;
+  	background-position: 50% 80%;
+}
+
+/*div.pane_pic1_col1, div.pane_pic1_col2, div.pane_pic1_col3{
+	flex: 1;
+	width: 100%;
+  	background-size: cover;
+  	background-attachment: fixed;
+  	min-height: 400px;
+
+}*/
+
+/*div.pane_pic1_col1{
+	background-image: url("/assets/background/background_edited.jpg");
+}
+div.pane_pic1_col2{
+	background-image: url("/assets/background/background_edited.jpg");
+}
+div.pane_pic1_col2{
+	background-image: url("/assets/background/background_edited.jpg");
+}*/

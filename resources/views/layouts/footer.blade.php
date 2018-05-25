@@ -11,8 +11,8 @@
 		</div>
 
 		<div class="resume_hire">
-			<a href="/resume">resume</a>
-			<a href="mailto:shuyama@shuyama.me?Subject=Jobs">hire me</a>
+			<a href="/resume">Resume</a>
+			<a href="mailto:work@shuyama.me?Subject=Jobs">Hire me</a>
 		</div>
 
 

@@ -9,12 +9,17 @@ green: #78CC53;
 
 body {
 
-	background-color: black;
-	/*font-family: "Trebuchet MS", Helvetica, sans-serif;*/
+/*	background-color: white;
+*/	/*font-family: "Trebuchet MS", Helvetica, sans-serif;*/
 /*	font-family: Tahoma, Geneva, sans-serif;
 */	
-	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+/*	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+*/	
 	/*font-family: "Neuton",sans-serif;*/
+
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background-color: black;
+
 
 
 
@@ -39,7 +44,15 @@ li.home_btn {
 	float: left;
 }*/
 
+div.body_wrapper{
+	background-color: white;
+}
+
+
 nav{
+	/*font-family: "Lucida Console", Monaco, monospace;*/
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
 	position: fixed;
 	list-style-type: none;
     margin: 0;
@@ -47,13 +60,14 @@ nav{
     overflow: hidden;
 	background-color: #333;
 	text-align: right;
-	font-size: 23px;
 	width: 100%;
-	opacity: 0.9;
 	top: 0;
 	left: 0;
+	z-index: 1;
 
 }
+
+
 
 nav a.home{
 	float: left;
@@ -63,8 +77,9 @@ nav a{
 	color: white;
 	display: inline-block;
 	text-align: center;
-	padding: 20px 50px;
+	padding: 20px 20px;
 	text-decoration: none;
+	margin-right: 30px;
 }
 
 
@@ -77,14 +92,19 @@ nav a{
 	
 }*/
 
-nav a.home:hover:not(.active){
-	background-color: white;
+nav a.home{
+	color: #78CC53;
+	margin-left: 30px;
+}
 
-	color: black;
+nav a.home:hover:not(.active){
+	background-color: black;
+
+	color: white;
 }
 
 nav a:hover:not(.active){
-	background-color: black;
+	/*background-color: black;*/
 
 	color: #78CC53; /*green*/
 }
@@ -106,17 +126,20 @@ footer div {
 
 
 footer{
-	position: fixed;
-	list-style-type: none;
+	/*font-family: "Lucida Console", Monaco, monospace;*/
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+/*	position: relative;
+*/	list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
 	background-color: #D3D3D3;
-	font-size: 23px;
+	font-size: 18px;
 	width: 100%;
 	bottom: 0;
 	left: 0;
-	opacity: 0.8;
+
 	text-align: right;
 }
 

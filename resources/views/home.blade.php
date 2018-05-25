@@ -14,7 +14,11 @@
 	
 
 
-			<div class="intro">
+		
+
+
+	</div>
+	<div class="intro">
 		
 			<div class="avatar"></div>
 
@@ -23,9 +27,6 @@
 				<p>Software Developer</p>
 				<p>Technology Enthusiast</p>
 			</div>
-
-		</div>
-
 
 	</div>
 

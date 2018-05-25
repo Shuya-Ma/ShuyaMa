@@ -1,30 +1,24 @@
-div.background{
-	/*font-family: "Times New Roman", Times, serif;*/
-	
-	position: fixed;
-	background-color: white; 
-	left: 10%;
-	top: 0;
-    width: 80%;
-	height: 100%;
-}
-	/*background-color: white;*/
-
-/*	background-image: url("/assets/background/background_edited.jpg");
-	background-size: 100% 100%;
-	background-repeat: no-repeat;
-*/
 
 div.resume_content {
-	position: absolute;
-	top:10%;
+	font-family: 'Roboto', sans-serif;
+/*	margin-top: -20px;*/
+	margin-top: 60px;
 	height: 100%;
-	width: 100%;
+	width: 80%;
+	margin-left: 10%;
+
+}
+
+div.big_sec{
+	position: relative;
+	top: 20px;
+/*	margin-top: 20px;
+*/	margin-bottom: 40px;
 }
 
 div.big_title{
-	position: relative;
-	background-color: #1E90FF; /*blue*/	
+/*	position: relative;
+*/	background-color: grey;  /*dark blue: #4169E1;*/ /*blue: #1E90FF*/	
 	margin-left: 5%;
 	width: 90%;
 	height: 60px;
@@ -34,15 +28,73 @@ div.big_title{
 h2.big_title{
 	position: relative;
 	left:40px;
-	top: 20%;
+	top: 30%;
 	color: white;
 	text-align: left;
 }
 
-div.edu_left{
-	position: relative;
-	left: 100px;
+div.experience_block{
+/*	position: relative;
+*/	left: 10%;
+/*	top: 10px;
+*/	margin-top: 30px;
+	margin-bottom: 30px;
+	padding-left: 20px;
+  	border-left: 3px solid grey;
 }
+
+p.time_period{
+/*	position: relative;
+*//*	top: -10px;
+*/	margin-left: 10px;
+	color: #696969;
+	margin-top: -10px;
+}
+
+h3.experience_place{
+	top: 10px;
+}
+
+h4.pos_title{
+	margin-left: 10px;
+	margin-top: -10px;
+}
+
+ul.resume_content_details{
+/*	position: relative;
+*/	
+	left: 10px;
+	margin-bottom: 30px;
+}
+
+div.section_content{
+/*	position: relative;
+*/	
+/*	top: 5px;
+*/	margin-left: 150px;
+	margin-bottom: 20px;
+	line-height: 20px;
+}
+
+div.section_content_skills{
+/*	position: relative;
+*/	margin-left: 12%;
+	margin-bottom: 10px;
+	display: flex;
+}
+
+div.skill_column{
+	flex: 1;
+}
+
+ul.skill_list{
+	line-height: 30px;
+}
+
+
+
+
+
 
 
 
