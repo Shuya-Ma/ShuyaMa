@@ -9,40 +9,12 @@ green: #78CC53;
 
 body {
 
-/*	background-color: white;
-*/	/*font-family: "Trebuchet MS", Helvetica, sans-serif;*/
-/*	font-family: Tahoma, Geneva, sans-serif;
-*/	
-/*	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-*/	
-	/*font-family: "Neuton",sans-serif;*/
 
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	background-color: black;
 
-
-
-
-/*	font-family: 'OpenSansLight', sans-serif;
-*/
-
-/*    background-attachment: fixed;
-	background-color: black;
-	opacity: 0.4;*/
-
 }
 
-
-
-
-/*li {
-	
-	float: right;
-}
-
-li.home_btn {
-	float: left;
-}*/
 
 div.body_wrapper{
 	background-color: white;
@@ -83,14 +55,6 @@ nav a{
 }
 
 
-/*ul a{
-	color: white;
-	display: block;
-	text-align: center;
-	padding: 20px 50px;
-	text-decoration: none;
-	
-}*/
 
 nav a.home{
 	color: #78CC53;
@@ -178,52 +142,3 @@ footer small.copyright {
 	font-size: 15px;
 }
 
-
-
-/*li a:active{
-	background-color: #78CC53;
-	color: white;
-}*/
-
-
-
-
-
-/*div.greeting {
-
-    position: relative;
-    left: 100px;
-    top: 150px;
-	color: white;
-
-}
-
-div.intro {
-
-    position: relative;
-    left: 200px;
-    top: 200px;
-	background-color: black;
-	width: 650px;
-	height: 700px;
-	opacity: 0.6;
-}
-
-
-
-p.title{
-	position: relative;
-	left: 250px;
-	top: 10px;
-	color: white;
-	font-size: 30px;
-
-}
-
-p.intro_p{
-	position: relative;
-	left: 200px;
-	top: 80px;
-	color: white;
-
-}*/

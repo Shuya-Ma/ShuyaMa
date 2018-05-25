@@ -14,18 +14,6 @@
 
 <body>
 
-
-
-
-
-		
-
-
-
-
-        
-
-
 		@include('layouts.nav')
 		<div class="body_wrapper">
 			@yield('content')

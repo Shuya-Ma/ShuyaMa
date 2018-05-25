@@ -19,12 +19,6 @@
 			<p> I graduated in 2017 with a Bachelor's degree in Mathematics and Computer Science, and then I became a software developer.
 		</div>
 		<div class="pane_pic1">
-			<!-- <div class="pane_pic1_col1">
-			</div>
-			<div class="pane_pic1_col2">
-			</div>
-			<div class="pane_pic1_col3">
-			</div> -->
 		</div>
 		<div class="pane_2">
 			<p>Schools and Jobs. That's boring, I know!</p>

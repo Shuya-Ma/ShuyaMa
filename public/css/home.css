@@ -4,7 +4,6 @@ div.background{
 	height: 900px;
 
 
-	/*background-color: white;*/
 
 	background-image: url("/assets/background/homeblack01.jpg");
 	background-size: 100% 100%;
@@ -73,29 +72,7 @@ div.intro_text p.name {
 	text-align: center;
 }
 
-/*div.intro_text p.name: before, div.intro_text p.name: after{
-  background-color: #000;
-    content: "";
-    display: inline-block;
-    height: 1px;
-    position: relative;
-    vertical-align: middle;
-    width: 50%;
-}
 
-div.intro_text p.name: before {
- 	right: 0.5em;
-    margin-left: -50%;
-	
-}
-
-
-div.intro_text p.name: after {
-
- 	left: 0.5em;
-    margin-right: -50%;
-
-}*/
 
 div.coming_soon { /* coming soon page*/
 	color: white;
@@ -113,11 +90,6 @@ div.coming_soon { /* coming soon page*/
 
 
 
-/*hr.style1 {
-	border-top: 3px double #8c8b8b;
-	position: relative;
-	top: -20px;
-	width: 70%;
-}*/
+
 
 
