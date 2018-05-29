@@ -11,12 +11,6 @@
 
 @section('content')
 	<div class="background">
-	
-
-
-		
-
-
 	</div>
 	<div class="intro">
 		
