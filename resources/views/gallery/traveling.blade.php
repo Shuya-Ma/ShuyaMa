@@ -1,7 +1,7 @@
 @extends('layout')
 
 @section('title')	
-	Gallery
+	Traveling
 @endsection
 
 @section('styles')
@@ -11,20 +11,7 @@
 @section('content')
 
 	<div class="background">
-
-
-
-
-
-
-
-
-
-
-
-
-
-		
+		<h1>Traveling</h1>
 
 	</div>
 

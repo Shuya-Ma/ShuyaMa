@@ -18,6 +18,8 @@ Route::get('/about', 'AboutController@index');
 Route::get('/contact', 'ContactController@index');
 
 Route::get('/gallery', 'GalleryController@index');
+Route::get('/gallery/{album}', 'GalleryController@view');
+Route::get('/gallery/{album}/{sub_album}', 'GalleryController@show');
 
 Route::get('/resume', 'ResumeController@index');
 
