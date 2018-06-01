@@ -1,11 +1,114 @@
 div.background{
     width: 100%;
 	height: 100%;
+	margin-top: 60px;
+	text-align: center;
+}
 
+div.background_main{
+    width: 100%;
+	height: 1000px;
+	margin-top: 60px;
+	text-align: center;
+}
+
+
+h1.gallery_title{
+	position: relative;
+	top: 30px;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+h4.gallery_subtitle{
+	position: relative;
+	text-align: center;
+	top: 30px;
+	margin-bottom: 10px;
 
 }
 
-h1.gallery_title{
+div.gallery_list{
+	height: 280px;
+	width: 30%;
+	margin: 5%;
+	position: relative;
+	background-size: cover;
+	background-position: 50% 50%;
+	display: inline-block;
+	background-color: rgba(236, 234, 234, 0.15);
+  	box-shadow: 1px 1px 12px 5px rgba(0, 0, 0, 0.14);
+  	-webkit-transition: .3s ease-in box-shadow;
+  	transition: .3s ease-in box-shadow;
+}
+
+div.gallery_list:hover{
+	box-shadow: 1px 1px 15px 2px rgba(152, 152, 152, 0.14);
+}
+
+div.gallery_list_overlay{
+	height: 100%;
+  	width: 100%;
+  	background-color: rgba(51, 51, 51, 0.9);
+  	opacity: 0.6;
+  	-webkit-transition: .4s ease opacity;
+  	transition: .4s ease opacity;
+}
+
+div.gallery_list_text{
+  	margin-top: -10px;
+	position: absolute;
+	top: 50%;
+	display: block;
+	width: 100%;
 	text-align: center;
-	margin-bottom: 10px;
+	color: white;
+	font-size: 26px;
+}
+
+div.gallery_list:hover div.gallery_list_overlay{
+	opacity: 0.2;
+}
+
+div.gallery_lists{
+	position: relative;
+	top: 70px;
+	text-decoration: none;
+}
+
+a.gallery_link {
+  text-decoration: none;
+}
+
+#gallery_cats{
+	background-image: url("/assets/gallery/cardinals1.png");
+}
+
+#gallery_traveling{
+	background-image: url("/assets/gallery/IMG_0899.JPG");
+}
+
+#gallery_simba{
+	background-image: url("/assets/gallery/IMG_0883.JPG");
+}
+
+#gallery_oreo{
+	background-image: url("/assets/gallery/IMG_0903.JPG");
+}
+
+
+div.photos{
+	position: relative;
+	/*height: 300px;*/
+	width: 100%;
+	display: inline-block;
+	text-align: center;
+	top: 50px;
+	margin-bottom: 50px;
+}
+
+div.photos img{
+	height: 80%;
+	width: 400px;
+	margin: 15px;
 }

@@ -8,16 +8,16 @@ green: #78CC53;
 
 
 body {
-
-
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	background-color: black;
+	height: 100%;
 
 }
 
 
 div.body_wrapper{
 	background-color: white;
+	height: 100%;
 }
 
 
