@@ -29,8 +29,23 @@
 					<div class="gallery_list_text">Oreo</div>
 				</div>
 			</a>
-
 		</div>	
+		<div class="photos">
+			<img src="/assets/gallery/IMG_0908.JPG">
+			<img src="/assets/gallery/IMG_0903.JPG">
+			<img src="/assets/gallery/IMG_0906.JPG">
+			<img src="/assets/gallery/IMG_0907.JPG">
+			<img src="/assets/gallery/IMG_0920.JPG">
+			<img src="/assets/gallery/IMG_0913.JPG">
+			<img src="/assets/gallery/IMG_0895.JPG">
+			<img src="/assets/gallery/IMG_0902.JPG">
+			<img src="/assets/gallery/IMG_0912.JPG">
+			<img src="/assets/gallery/IMG_0911.JPG">
+			<img src="/assets/gallery/IMG_0908.JPG">
+			<img src="/assets/gallery/IMG_0908.JPG">
+			<img src="/assets/gallery/IMG_0908.JPG">
+			<img src="/assets/gallery/IMG_0908.JPG">
+		</div>
 
 	</div>
 

@@ -28,19 +28,38 @@ h4.gallery_subtitle{
 
 }
 
+
 div.gallery_list{
-	height: 280px;
-	width: 30%;
+	width: 35%;
+	height: 260px;
 	margin: 5%;
 	position: relative;
 	background-size: cover;
-	background-position: 50% 50%;
+	background-position: 40% 50%;
 	display: inline-block;
 	background-color: rgba(236, 234, 234, 0.15);
   	box-shadow: 1px 1px 12px 5px rgba(0, 0, 0, 0.14);
   	-webkit-transition: .3s ease-in box-shadow;
   	transition: .3s ease-in box-shadow;
 }
+
+div.gallery_list:hover div.gallery_list_overlay{
+	opacity: 0.2;
+}
+
+@media only screen and (max-width: 900px) {
+  div.gallery_list {
+	width: 65%;
+  }
+}
+
+
+
+/*@media (max-width: 800px) {
+  div.gallery_list {
+	width: 65%;
+}
+*/
 
 div.gallery_list:hover{
 	box-shadow: 1px 1px 15px 2px rgba(152, 152, 152, 0.14);
@@ -50,7 +69,7 @@ div.gallery_list_overlay{
 	height: 100%;
   	width: 100%;
   	background-color: rgba(51, 51, 51, 0.9);
-  	opacity: 0.6;
+  	opacity: 0.6; 
   	-webkit-transition: .4s ease opacity;
   	transition: .4s ease opacity;
 }
@@ -66,9 +85,6 @@ div.gallery_list_text{
 	font-size: 26px;
 }
 
-div.gallery_list:hover div.gallery_list_overlay{
-	opacity: 0.2;
-}
 
 div.gallery_lists{
 	position: relative;
@@ -79,21 +95,21 @@ div.gallery_lists{
 a.gallery_link {
   text-decoration: none;
 }
-
+ 
 #gallery_cats{
-	background-image: url("/assets/gallery/cardinals1.png");
+	background-image: url("/assets/gallery/IMG_2049.jpg");
 }
 
 #gallery_traveling{
-	background-image: url("/assets/gallery/IMG_0899.JPG");
+	background-image: url("/assets/gallery/IMG_0899.jpeg");
 }
 
 #gallery_simba{
-	background-image: url("/assets/gallery/IMG_0883.JPG");
+	background-image: url("/assets/gallery/IMG_1832.jpg");
 }
 
 #gallery_oreo{
-	background-image: url("/assets/gallery/IMG_0903.JPG");
+	background-image: url("/assets/gallery/IMG_2057.JPG");
 }
 
 
@@ -104,7 +120,7 @@ div.photos{
 	display: inline-block;
 	text-align: center;
 	top: 50px;
-	margin-bottom: 50px;
+	margin-bottom: 100px;
 }
 
 div.photos img{

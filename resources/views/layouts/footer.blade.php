@@ -2,7 +2,8 @@
 
 	<div>
 		<div class="copyright">
-			<small class="copyright"> &copy; <?php echo date('Y'); ?> Shuya Ma. All rights Reserved.</small>
+			<!-- <small class="copyright"> &copy; <?php echo date('Y'); ?> Shuya Ma. All rights Reserved.</small> -->
+			<small class="copyright"> &copy; <?php echo date('Y'); ?> Shuya Ma</small>
 		</div>
 
 		<div class="social-icon">
