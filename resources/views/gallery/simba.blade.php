@@ -13,16 +13,11 @@
 	<div class="background">
 		<h1 class="gallery_title">Meet Simba</h1>
 		<div class="photos">
-			<img src="/assets/gallery/IMG_0908.JPG">
-			<img src="/assets/gallery/IMG_0903.JPG">
-			<img src="/assets/gallery/IMG_0906.JPG">
-			<img src="/assets/gallery/IMG_0907.JPG">
-			<img src="/assets/gallery/IMG_0920.JPG">
-			<img src="/assets/gallery/IMG_0913.JPG">
-			<img src="/assets/gallery/IMG_0895.JPG">
-			<img src="/assets/gallery/IMG_0902.JPG">
-			<img src="/assets/gallery/IMG_0912.JPG">
-			<img src="/assets/gallery/IMG_0911.JPG">
+			<img src="/assets/gallery/IMG_1832.JPG">
+		</div>
+		<div class="photos">
+			<img src="/assets/gallery/IMG_2062.JPG">
+			
 		</div>	
 
 	</div>

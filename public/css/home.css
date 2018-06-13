@@ -25,9 +25,9 @@ div.background{
 
 div.intro {
 	position: absolute;
-	top: 55%;
+	/*top: 55%;*/
     left: 50%;
-    margin-top: -250px; 
+    margin-top: -950px; 
     margin-left: -250px; 
 	width: 500px;
 	height: 700px;
