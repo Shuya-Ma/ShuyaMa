@@ -97,19 +97,19 @@ a.gallery_link {
 }
  
 #gallery_cats{
-	background-image: url("/assets/gallery/IMG_2049.jpg");
+	background-image: url("/assets/gallery/cats/IMG_2049.jpg");
 }
 
 #gallery_traveling{
-	background-image: url("/assets/gallery/IMG_0899.jpeg");
+	background-image: url("/assets/gallery/traveling/IMG_0899.jpeg");
 }
 
 #gallery_simba{
-	background-image: url("/assets/gallery/IMG_1832.jpg");
+	background-image: url("/assets/gallery/simba/IMG_1832.jpg");
 }
 
 #gallery_oreo{
-	background-image: url("/assets/gallery/IMG_2057.JPG");
+	background-image: url("/assets/gallery/oreo/IMG_2057.JPG");
 }
 
 

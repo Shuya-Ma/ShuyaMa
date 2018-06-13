@@ -31,10 +31,10 @@
 			</a>
 		</div>	
 		<div class="photos">
-			<img src="/assets/gallery/IMG_2049.JPG">
-			<img src="/assets/gallery/S&O_window_1.JPG">
-			<img src="/assets/gallery/S&O_window_2.JPG">
-			<img src="/assets/gallery/IMG_2086.JPG">
+			<img src="/assets/gallery/cats/IMG_2049.jpg">
+			<img src="/assets/gallery/cats/S&O_window_1.jpg">
+			<img src="/assets/gallery/cats/S&O_window_2.jpg">
+			<img src="/assets/gallery/cats/IMG_2086.jpg">
 		</div>
 
 	</div>
