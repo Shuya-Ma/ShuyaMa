@@ -1,4 +1,4 @@
-@extends('layout')
+<!-- @extends('layout')
 
 @section('title')	
 	Resume
@@ -144,4 +144,4 @@
 				</div>
 			</div>
 
-@endsection
+@endsection -->
