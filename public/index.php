@@ -7,6 +7,8 @@
  * @author   Taylor Otwell <taylor@laravel.com>
  */
 
+// test
+
 /*
 |--------------------------------------------------------------------------
 | Register The Auto Loader
